@@ -1,1 +1,10 @@
-
+first_name = 'Alberta'
+last_name = 'Osei'
+full_name = 'Alberta Osei'
+country = 'Canada'
+city = 'Sudbury'
+age = '19'
+year = '2009'
+is_miner = 'true'
+is_true = 'miner'
+is_light_on = 'false'
